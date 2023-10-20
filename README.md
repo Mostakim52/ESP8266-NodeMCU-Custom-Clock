@@ -17,3 +17,5 @@ Use the provided GIF and JPG files to understand what I built.
 Just upload boot.py and networkconfig.py to ESP8266 NodeMCU the way it is.
 You can modify the membday.py custom message to your liking.
 
+**Your ESP8266 must have MicroPython firmware in it.**
+
